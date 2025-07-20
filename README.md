@@ -1,16 +1,23 @@
-# transcation
 
-A new Flutter project.
+# Transaction Manager App
 
-## Getting Started
+This Flutter app demonstrates GET and POST operations using a mock REST API to manage user transactions.
 
-This project is a starting point for a Flutter application.
+## 📦 Framework
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter Version:** 3.29.2
+- **Dart Version:** 3.x
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔗 API Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [MockAPI Endpoint](https://687c7714918b6422432e211d.mockapi.io/api/transactions)
+
+  This endpoint handles basic **GET** and **POST** operations for transaction data such as amount, title, date, type, and category.
+
+## 🛠️ Setup & Run Instructions
+
+1. **Clone the repository**
+2. download the dependencies
+3. flutter run
+  
+
